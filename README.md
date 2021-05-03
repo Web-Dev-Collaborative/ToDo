@@ -4,3 +4,5 @@ The app uses
 - CSS
 - JavaScript and
 - LocalStorage API
+
+# [DEPLOYMENT](https://todo42.netlify.app/)
